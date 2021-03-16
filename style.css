@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    background-color: black;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: black;
+}
+
+.contenido{
+    width: 350px;
+    padding: 5px;
+    background-color: white;
+}
+
+img{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.header{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+#cambio1,#cambio2{
+    height: min-content;
+    margin-top: 10px;
+    padding: 4px;
+}
+
+#cambio1{
+    margin-left: 4px;
+}
+
+#cambio2{
+    margin-left: 192px;
+}
+
+.montados{
+    margin-top: 5px;
+    line-height: 2px;
+    margin-left: 2px;
+}
+
+.parrafo{
+    padding: 5px;
+    text-align: justify;
+}
+
+.simbolos{
+    padding: 2px;
+}
+
+#sim1{
+    margin-left: 3px;
+}
+
+#sim2{
+    margin-left: 6px;
+}
+
+#sim3{
+    margin-left: 6px;
+}
+
+#sim4{
+    margin-left: 215px;
+}
